@@ -1,0 +1,11 @@
+*{ font-family: Arial, Helvetica, sans-serif;}
+h3{
+    color:green
+}
+hr {
+    border: 0; /* Elimina el borde predeterminado */
+    height: 2px; /* Grosor de la línea */
+    background-color: #333; /* Color de la línea */
+    width: 80%; /* Ancho de la línea */
+    margin: 20px ; /* Centrar la línea */
+  }
